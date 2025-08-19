@@ -1,5 +1,4 @@
 from typing import Any, Dict
-import asyncio
 import logging
 from mcp.server.fastmcp import FastMCP
 from MCPs.myTarot.run_draw_cards import draw

@@ -1,12 +1,10 @@
 import os
 import random
 import pygame
-from pygame.locals import *
+from pygame.locals import QUIT, KEYDOWN, MOUSEBUTTONDOWN, K_ESCAPE, K_RETURN, K_KP_ENTER, K_BACKSPACE, K_SPACE, K_UP, K_DOWN
 import json
 import math
-import colorsys
 from dotenv import load_dotenv
-import openai
 from prompt_manager import prompt_manager
 
 load_dotenv()
