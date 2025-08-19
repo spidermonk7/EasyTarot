@@ -1,0 +1,6 @@
+Jinja2
+mcp
+MCPs
+openai
+pygame
+python-dotenv
